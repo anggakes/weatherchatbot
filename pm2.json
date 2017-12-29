@@ -1,0 +1,9 @@
+{
+  "apps": [{
+    "name": "weatherchatbot",
+    "script": "src/app.js",
+    "env": {
+      "production": false
+    }
+  }]
+}
